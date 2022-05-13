@@ -1,0 +1,11 @@
+#lienzo{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#My_canvas{
+    background-color: blue;
+    border-width: 10;
+    border-color: red;
+    border-style: ridge;
+}
